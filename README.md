@@ -46,6 +46,20 @@ Make a robot friend by playing with CircuitPlayground. For most of this projects
 For playing this games you need to print some parts. The world is a big place and is full of pleople willing to help you build this.
 - [Yoyo](https://learn.adafruit.com/circuit-playground-yoyo/assembly): Print a couple of parts to build an amazing looking yoyo.
 
+#### Crafts
+- [Playground Notebook](https://github.com/fede2cr/playground_notebook): What can you do if you embed a Playground inside the book cover of a notebook?. Work in progress.
+- [UV Hat](https://github.com/fede2cr/playground_uv_hat): A remake of a project from Becky Stern, using the Playground board.
+
+#### Educational tools:
+As aids for learning other areas.
+
+##### Security (Infosec)
+- [Playground Ducky](https://github.com/fede2cr/playground_ducky): A clone of the tool Rubber Ducky, used to teaching about USB Keyboard attacks in Greencore Solutions.
+##### Biology/Medical
+- [Pulse sensor](https://github.com/fede2cr/pulsesensor_cplay): Heart pulse sensor using the onboard sensors on the Playground.
+##### STEM
+- [Kit Ciencia y Arte](http://www.instructables.com/id/Kit-Ciencia-Y-Arte-Circuit-Playground/): A collection of tutorials for a [hardware STEM kit](http://www.crcibernetica.com/inventoria-sensor-kit/) from CRCibernetica, but you can get the individual parts from lots of other providers if you don't live in Costa Rica.
+
 #### Develpment platforms
 Not complete games, but places to start if you want to build a game.
 - [Scratch extension](https://www.embeditelectronics.com/blog/project/getting-started-with-the-circuit-playground/): You can use a CircuitPlayground to control what's happening inside Scratch. But sadly, this only works on Windows :(
