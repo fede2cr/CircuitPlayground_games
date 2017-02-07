@@ -25,7 +25,7 @@ We recommend Super Awesome Sylvia's [Amazing Books](http://superawesomebook.com/
 - [Hot Potato](https://www.youtube.com/watch?v=JV2Jdn3KFzo): It uses the accelerometed in the CircuitPlayground to detect when it get tossed between players, with times to make it realistc. The code is in the examples of the CircuitPlayground library in the Arduino IDE.
 
 - [Quick Draw](https://learn.adafruit.com/circuit-playground-quick-draw): From the learning system from Adafruit comes a quick draw game where you use the buttons on the board to play. Excelent tutorial to learn about Random as well as general programming.
-![Quick Draw](https://cdn-learn.adafruit.com/guides/images/000/001/538/medium800/quickdraw_thumb.png "Quick Draw"){:height="200x"}
+<img src="https://cdn-learn.adafruit.com/guides/images/000/001/538/medium800/quickdraw_thumb.png" width="100">
 
 - [Bop it](https://www.maker.io/en/projects/adafruit-circuit-playground-bop-it-2-player-game/861f90cf1c01434ea309350b8b27b344): Not really sure what the Bot it toy does, but this project does exactly the same. You use the different sensors on the Playground to interact with the game, and you get scored in binary so it's also a good oportunity to learn how to count in binary.
 
