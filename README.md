@@ -30,7 +30,7 @@ We recommend Super Awesome Sylvia's [Amazing Books](http://superawesomebook.com/
 
 - [Bop it](https://www.maker.io/en/projects/adafruit-circuit-playground-bop-it-2-player-game/861f90cf1c01434ea309350b8b27b344): Not really sure what the Bot it toy does, but this project does exactly the same. You use the different sensors on the Playground to interact with the game, and you get scored in binary so it's also a good oportunity to learn how to count in binary.
 
-- Simon CircuitPlayground: Based on a reverse engeniered an original Simon Says, this project has the exact same tones and audio behaviour as the real deal. The project was demoed on the Ask an Engineer show from Adafruit, with tutorial and code comming up in the next few days.
+- [Simon CircuitPlayground](https://learn.adafruit.com/circuit-playground-simple-simon/the-structure-of-struct?view=all): Based on a reverse engeniered an original Simon Says, this project has the exact same tones and audio behaviour as the real deal. Simple to use, and you only need to plug in a battery and upload the code.
 
 #### Game accesory
 - ["six side" (D6) dice](https://learn.adafruit.com/circuit-playground-d6-dice/overview): Using an old school dice in your board games is for those who don't learn electronics. You can a should use this six sided dice.
