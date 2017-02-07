@@ -25,12 +25,17 @@ We recommend Super Awesome Sylvia's [Amazing Books](http://superawesomebook.com/
 - [Hot Potato](https://www.youtube.com/watch?v=JV2Jdn3KFzo): It uses the accelerometed in the CircuitPlayground to detect when it get tossed between players, with times to make it realistc. The code is in the examples of the CircuitPlayground library in the Arduino IDE.
 
 - [Quick Draw](https://learn.adafruit.com/circuit-playground-quick-draw): From the learning system from Adafruit comes a quick draw game where you use the buttons on the board to play. Excelent tutorial to learn about Random as well as general programming.
-<img src="https://cdn-learn.adafruit.com/guides/images/000/001/538/medium800/quickdraw_thumb.png" width="100">
+
+<img src="https://cdn-learn.adafruit.com/guides/images/000/001/538/medium800/quickdraw_thumb.png" width="200">
 
 - [Bop it](https://www.maker.io/en/projects/adafruit-circuit-playground-bop-it-2-player-game/861f90cf1c01434ea309350b8b27b344): Not really sure what the Bot it toy does, but this project does exactly the same. You use the different sensors on the Playground to interact with the game, and you get scored in binary so it's also a good oportunity to learn how to count in binary.
 
+<img src="https://www.digikey.com/-/media/MakerIO/Images/projects/1c158ff8648341abad642bae1c160d5c.jpg" width="200">
+
 - [Simon CircuitPlayground](https://learn.adafruit.com/circuit-playground-simple-simon/the-structure-of-struct?view=all): Based on a reverse engeniered an original Simon Says, this project has the exact same tones and audio behaviour as the real deal. Simple to use, and you only need to plug in a battery and upload the code.
-i
+
+<img src="https://cdn-learn.adafruit.com/guides/images/000/001/565/medium800/simon_thumb.png" width="200">
+
 #### Game accesory
 - ["six side" (D6) dice](https://learn.adafruit.com/circuit-playground-d6-dice/overview): Using an old school dice in your board games is for those who don't learn electronics. You can a should use this six sided dice.
 
