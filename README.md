@@ -39,27 +39,44 @@ We recommend Super Awesome Sylvia's [Amazing Books](http://superawesomebook.com/
 #### Game accesory
 - ["six side" (D6) dice](https://learn.adafruit.com/circuit-playground-d6-dice/overview): Using an old school dice in your board games is for those who don't learn electronics. You can a should use this six sided dice.
 
+<img src="https://cdn-learn.adafruit.com/guides/images/000/001/532/medium800/d6dice_thumb.png" width="200">
+
 - [Pokemon Go Badge](https://learn.adafruit.com/glowing-led-team-badge-for-pokemon-go/): Be safe at night and be proud of your team with a badge.
+
+<img src="https://cdn-learn.adafruit.com/guides/images/000/001/381/medium640mp4/IMAG0860_BURST001-ANIMATION.mp4" width="200">
 
 #### Robot friend
 Make a robot friend by playing with CircuitPlayground. For most of this projects you will need some extra components like motors, batteries, wheels, etc.
 
 - [Sound-controlled Robot](https://learn.adafruit.com/circuit-playground-sound-controlled-robot/continuous-rotation-servos): From Mike Barela for Adafruit. It uses the accelerometer on the board to mantain balance. To ask it to move, you make sound and whistle to it. Bring a flute if you want to.
 
+<img src="https://cdn-learn.adafruit.com/guides/images/000/001/456/medium800/robot_with_eyes.jpg" width="200">
+
 #### Music and sound
 - [Sound and Music tutorial](https://learn.adafruit.com/circuit-playground-music): From Mike Barela for Adafruit. Learn the basic of how to program a Circuit Playground to make music with the included mini-speaker. Also how to convert some of the sensors in the board, to an audio output to creative variations on a theremin.
 
+<img src="https://cdn-learn.adafruit.com/guides/images/000/001/399/medium640mp4/CPmusic.mp4" width="200">
+
 - [Fruit Drums](https://learn.adafruit.com/circuit-playground-fruit-drums): From the learning system from Adafruit, learn how to use the capacitive touch buttons on the board, and the MIDI capabilities, so that you can play music by touching fruits (or anything conductive). For this you also need to install a MIDI software like the free software Hydrogen, all included in the guide.
+
+<img src="https://cdn-learn.adafruit.com/guides/images/000/001/505/medium800/fruit_thumb.jpg" width="200">
 
 #### 3d printing
 For playing this games you need to print some parts. The world is a big place and is full of pleople willing to help you build this.
 - [Yoyo](https://learn.adafruit.com/circuit-playground-yoyo/assembly): Print a couple of parts to build an amazing looking yoyo.
 
+<img src="https://cdn-learn.adafruit.com/guides/images/000/001/431/medium640mp4/yoyo-spin.mp4" width="200">
+
 #### Crafts
 - [Playground Notebook](https://github.com/fede2cr/playground_notebook): What can you do if you embed a Playground inside the book cover of a notebook?. Work in progress.
 - [UV Hat](https://github.com/fede2cr/playground_uv_hat): A remake of a project from Becky Stern, using the Playground board.
 - [Kaleidoscope](https://learn.adafruit.com/circuit-playground-kaleidoscope): By Mike Barela for Adafruit. Use mylar, aluminum foil, a Pringles' tube and a Playground to create a kaleidoscope!
+
+<img src="https://cdn-learn.adafruit.com/guides/images/000/001/428/medium800/inside.jpg" width="200">
+
 - [Pizza Box DJ Controller](https://learn.adafruit.com/circuit-playground-pizza-box-dj-controller/overview): From John Park for Adafruit. Play with stencils and conductive ink to create a capacitive touch MIDI input for a DJ Controller application to use with your computer.
+
+<img src="https://cdn-learn.adafruit.com/guides/images/000/001/455/medium800/pz1Build-13.jpg" width="200">
 
 #### Educational tools:
 As aids for learning other areas.
@@ -73,9 +90,15 @@ As aids for learning other areas.
 ##### STEM
 - [Kit Ciencia y Arte](http://www.instructables.com/id/Kit-Ciencia-Y-Arte-Circuit-Playground/): A collection of tutorials for a [hardware STEM kit](http://www.crcibernetica.com/inventoria-sensor-kit/) from CRCibernetica, but you can get the individual parts from lots of other providers if you don't live in Costa Rica.
 
+<img src="https://cdn.instructables.com/FUF/X0PI/IT5SACIZ/FUFX0PIIT5SACIZ.MEDIUM.jpg" width="200">
+
 #### Develpment platforms
 Not complete games, but places to start if you want to build a game.
 - [Scratch extension](https://www.embeditelectronics.com/blog/project/getting-started-with-the-circuit-playground/): You can use a CircuitPlayground to control what's happening inside Scratch. But sadly, this only works on Windows :(
 
+<img src="https://www.embeditelectronics.com/blog/wp-content/uploads/2016/11/scratch_connected_combined.png" width="200">
+
 #### Comercial/Kits
 - [1D Arcage Game System](https://www.tindie.com/products/itaparcade/neopix-arcade-kit-1d-arcade-game-system/): Is a comercial kit for a mounting base and tactile buttons, battery and USB cable for starting with CircuitPlayground. The video demo shows a 1D Pong-like game. Not sure if the code is available to play without buying the kit.
+
+<img src="https://d3s5r33r268y59.cloudfront.net/46861/products/thumbs/2017-01-15T19:39:34.533Z-IMG_4359.JPG.855x570_q85_pad_rcrop.jpg" width="200">
