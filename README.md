@@ -26,12 +26,10 @@ We recommend Super Awesome Sylvia's [Amazing Books](http://superawesomebook.com/
 
 - [Quick Draw](https://learn.adafruit.com/circuit-playground-quick-draw): From the learning system from Adafruit comes a quick draw game where you use the buttons on the board to play. Excelent tutorial to learn about Random as well as general programming.
 
-- [Fruit Drums](https://learn.adafruit.com/circuit-playground-fruit-drums): From the learning system from Adafruit, learn how to use the capacitive touch buttons on the board, and the MIDI capabilities, so that you can play music by touching fruits (or anything conductive). For this you also need to install a MIDI software like the free software Hydrogen, all included in the guide.
-
 - [Bop it](https://www.maker.io/en/projects/adafruit-circuit-playground-bop-it-2-player-game/861f90cf1c01434ea309350b8b27b344): Not really sure what the Bot it toy does, but this project does exactly the same. You use the different sensors on the Playground to interact with the game, and you get scored in binary so it's also a good oportunity to learn how to count in binary.
 
 - [Simon CircuitPlayground](https://learn.adafruit.com/circuit-playground-simple-simon/the-structure-of-struct?view=all): Based on a reverse engeniered an original Simon Says, this project has the exact same tones and audio behaviour as the real deal. Simple to use, and you only need to plug in a battery and upload the code.
-
+i
 #### Game accesory
 - ["six side" (D6) dice](https://learn.adafruit.com/circuit-playground-d6-dice/overview): Using an old school dice in your board games is for those who don't learn electronics. You can a should use this six sided dice.
 
@@ -40,7 +38,12 @@ We recommend Super Awesome Sylvia's [Amazing Books](http://superawesomebook.com/
 #### Robot friend
 Make a robot friend by playing with CircuitPlayground. For most of this projects you will need some extra components like motors, batteries, wheels, etc.
 
-- [Sound-controlled Robot](https://learn.adafruit.com/circuit-playground-sound-controlled-robot/continuous-rotation-servos): It uses the accelerometer on the board to mantain balance. To ask it to move, you make sound and whistle to it. Bring a flute if you want to.
+- [Sound-controlled Robot](https://learn.adafruit.com/circuit-playground-sound-controlled-robot/continuous-rotation-servos): From Mike Barela for Adafruit. It uses the accelerometer on the board to mantain balance. To ask it to move, you make sound and whistle to it. Bring a flute if you want to.
+
+#### Music and sound
+- [Sound and Music tutorial](https://learn.adafruit.com/circuit-playground-music): From Mike Barela for Adafruit. Learn the basic of how to program a Circuit Playground to make music with the included mini-speaker. Also how to convert some of the sensors in the board, to an audio output to creative variations on a theremin.
+
+- [Fruit Drums](https://learn.adafruit.com/circuit-playground-fruit-drums): From the learning system from Adafruit, learn how to use the capacitive touch buttons on the board, and the MIDI capabilities, so that you can play music by touching fruits (or anything conductive). For this you also need to install a MIDI software like the free software Hydrogen, all included in the guide.
 
 #### 3d printing
 For playing this games you need to print some parts. The world is a big place and is full of pleople willing to help you build this.
@@ -49,14 +52,18 @@ For playing this games you need to print some parts. The world is a big place an
 #### Crafts
 - [Playground Notebook](https://github.com/fede2cr/playground_notebook): What can you do if you embed a Playground inside the book cover of a notebook?. Work in progress.
 - [UV Hat](https://github.com/fede2cr/playground_uv_hat): A remake of a project from Becky Stern, using the Playground board.
+- [Kaleidoscope](https://learn.adafruit.com/circuit-playground-kaleidoscope): By Mike Barela for Adafruit. Use mylar, aluminum foil, a Pringles' tube and a Playground to create a kaleidoscope!
+- [Pizza Box DJ Controller](https://learn.adafruit.com/circuit-playground-pizza-box-dj-controller/overview): From John Park for Adafruit. Play with stencils and conductive ink to create a capacitive touch MIDI input for a DJ Controller application to use with your computer.
 
 #### Educational tools:
 As aids for learning other areas.
 
 ##### Security (Infosec)
 - [Playground Ducky](https://github.com/fede2cr/playground_ducky): A clone of the tool Rubber Ducky, used to teaching about USB Keyboard attacks in Greencore Solutions.
+
 ##### Biology/Medical
 - [Pulse sensor](https://github.com/fede2cr/pulsesensor_cplay): Heart pulse sensor using the onboard sensors on the Playground.
+
 ##### STEM
 - [Kit Ciencia y Arte](http://www.instructables.com/id/Kit-Ciencia-Y-Arte-Circuit-Playground/): A collection of tutorials for a [hardware STEM kit](http://www.crcibernetica.com/inventoria-sensor-kit/) from CRCibernetica, but you can get the individual parts from lots of other providers if you don't live in Costa Rica.
 
