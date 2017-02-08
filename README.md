@@ -67,6 +67,10 @@ For playing this games you need to print some parts. The world is a big place an
 
 <img src="https://cdn-learn.adafruit.com/assets/assets/000/035/649/small240/circuit_playground_hero-rainbow.jpg" width="200">
 
+- [Mystery Box: The Freefall Deck](https://learn.adafruit.com/mystery-box-freefall-deck): From John Park for Adafruit. Print a holder for the Playground, and hack cellophane your way into a deck of cards, to create a mystery that can only be revealed by putting the Playground in free fall.
+
+<img src="https://cdn-learn.adafruit.com/guides/images/000/001/562/medium800/mBoxFreefall_P1130067_2k.jpg" width"200">
+
 #### Crafts
 - [Playground Notebook](https://github.com/fede2cr/playground_notebook): What can you do if you embed a Playground inside the book cover of a notebook?. Work in progress.
 - [UV Hat](https://github.com/fede2cr/playground_uv_hat): A remake of a project from Becky Stern, using the Playground board.
