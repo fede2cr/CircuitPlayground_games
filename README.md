@@ -43,7 +43,7 @@ We recommend Super Awesome Sylvia's [Amazing Books](http://superawesomebook.com/
 
 - [Pokemon Go Badge](https://learn.adafruit.com/glowing-led-team-badge-for-pokemon-go/): Be safe at night and be proud of your team with a badge.
 
-<img src="https://cdn-learn.adafruit.com/guides/images/000/001/381/medium640mp4/IMAG0860_BURST001-ANIMATION.mp4" width="200">
+<img src="https://cdn-learn.adafruit.com/assets/assets/000/033/986/small240/gaming_IMAG0886.jpg" width="200">
 
 #### Robot friend
 Make a robot friend by playing with CircuitPlayground. For most of this projects you will need some extra components like motors, batteries, wheels, etc.
@@ -55,7 +55,7 @@ Make a robot friend by playing with CircuitPlayground. For most of this projects
 #### Music and sound
 - [Sound and Music tutorial](https://learn.adafruit.com/circuit-playground-music): From Mike Barela for Adafruit. Learn the basic of how to program a Circuit Playground to make music with the included mini-speaker. Also how to convert some of the sensors in the board, to an audio output to creative variations on a theremin.
 
-<img src="https://cdn-learn.adafruit.com/guides/images/000/001/399/medium640mp4/CPmusic.mp4" width="200">
+<img src="https://cdn-learn.adafruit.com/assets/assets/000/034/746/small240/circuit_playground_simon_edit.jpg" width="200">
 
 - [Fruit Drums](https://learn.adafruit.com/circuit-playground-fruit-drums): From the learning system from Adafruit, learn how to use the capacitive touch buttons on the board, and the MIDI capabilities, so that you can play music by touching fruits (or anything conductive). For this you also need to install a MIDI software like the free software Hydrogen, all included in the guide.
 
@@ -65,7 +65,7 @@ Make a robot friend by playing with CircuitPlayground. For most of this projects
 For playing this games you need to print some parts. The world is a big place and is full of pleople willing to help you build this.
 - [Yoyo](https://learn.adafruit.com/circuit-playground-yoyo/assembly): Print a couple of parts to build an amazing looking yoyo.
 
-<img src="https://cdn-learn.adafruit.com/guides/images/000/001/431/medium640mp4/yoyo-spin.mp4" width="200">
+<img src="https://cdn-learn.adafruit.com/assets/assets/000/035/649/small240/circuit_playground_hero-rainbow.jpg" width="200">
 
 #### Crafts
 - [Playground Notebook](https://github.com/fede2cr/playground_notebook): What can you do if you embed a Playground inside the book cover of a notebook?. Work in progress.
