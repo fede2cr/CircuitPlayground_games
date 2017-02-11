@@ -103,6 +103,6 @@ Not complete games, but places to start if you want to build a game.
 <img src="https://www.embeditelectronics.com/blog/wp-content/uploads/2016/11/scratch_connected_combined.png" width="200">
 
 #### Comercial/Kits
-- [1D Arcage Game System](https://www.tindie.com/products/itaparcade/neopix-arcade-kit-1d-arcade-game-system/): Is a comercial kit for a mounting base and tactile buttons, battery and USB cable for starting with CircuitPlayground. The video demo shows a 1D Pong-like game. Not sure if the code is available to play without buying the kit.
+- [1D Arcage Game System](https://www.tindie.com/products/itaparcade/neopix-arcade-kit-1d-arcade-game-system/): Is a comercial kit for a mounting base and tactile buttons, battery and USB cable for starting with CircuitPlayground. The video demo shows a 1D Pong-like game. The code is now in the Adafruit's Learning System in this [tutorial](https://learn.adafruit.com/neopix-arcade-kit-1d-arcade-game-system-circuit-playground)
 
 <img src="https://d3s5r33r268y59.cloudfront.net/46861/products/thumbs/2017-01-15T19:39:34.533Z-IMG_4359.JPG.855x570_q85_pad_rcrop.jpg" width="200">
