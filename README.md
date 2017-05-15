@@ -22,17 +22,17 @@ You first need to install a software to compile and load the code on the board, 
 The code has a higher difficulty if you have never touched code before, but the Arduino platform is used for hackers of all ages to create wonderful stuff.
 We recommend Super Awesome Sylvia's [Amazing Books](http://superawesomebook.com/) and [Maker Show](http://sylviashow.com/) to master the Arduino platform on which the original models of CircuitPlayground are based.
 
-- [Hot Potato](https://www.youtube.com/watch?v=JV2Jdn3KFzo): It uses the accelerometed in the CircuitPlayground to detect when it get tossed between players, with times to make it realistc. The code is in the examples of the CircuitPlayground library in the Arduino IDE.
+- [Hot Potato](https://www.youtube.com/watch?v=JV2Jdn3KFzo): It uses the accelerometed in the CircuitPlayground to detect when it get tossed between players, with times to make it realistic. The code is in the examples of the CircuitPlayground library in the Arduino IDE.
 
-- [Quick Draw](https://learn.adafruit.com/circuit-playground-quick-draw): From the learning system from Adafruit comes a quick draw game where you use the buttons on the board to play. Excelent tutorial to learn about Random as well as general programming.
+- [Quick Draw](https://learn.adafruit.com/circuit-playground-quick-draw): From the learning system from Adafruit comes a quick draw game where you use the buttons on the board to play. Excellent tutorial to learn about Random as well as general programming.
 
 <img src="https://cdn-learn.adafruit.com/guides/images/000/001/538/medium800/quickdraw_thumb.png" width="200">
 
-- [Bop it](https://www.maker.io/en/projects/adafruit-circuit-playground-bop-it-2-player-game/861f90cf1c01434ea309350b8b27b344): Not really sure what the Bot it toy does, but this project does exactly the same. You use the different sensors on the Playground to interact with the game, and you get scored in binary so it's also a good oportunity to learn how to count in binary.
+- [Bop it](https://www.maker.io/en/projects/adafruit-circuit-playground-bop-it-2-player-game/861f90cf1c01434ea309350b8b27b344): Not really sure what the Bot it toy does, but this project does exactly the same. You use the different sensors on the Playground to interact with the game, and you get scored in binary so it's also a good opportunity to learn how to count in binary.
 
 <img src="https://www.digikey.com/-/media/MakerIO/Images/projects/1c158ff8648341abad642bae1c160d5c.jpg" width="200">
 
-- [Simon CircuitPlayground](https://learn.adafruit.com/circuit-playground-simple-simon/the-structure-of-struct?view=all): Based on a reverse engeniered an original Simon Says, this project has the exact same tones and audio behaviour as the real deal. Simple to use, and you only need to plug in a battery and upload the code.
+- [Simon CircuitPlayground](https://learn.adafruit.com/circuit-playground-simple-simon/the-structure-of-struct?view=all): Based on a reverse engineered an original Simon Says, this project has the exact same tones and audio behaviour as the real deal. Simple to use, and you only need to plug in a battery and upload the code.
 
 <img src="https://cdn-learn.adafruit.com/guides/images/000/001/565/medium800/simon_thumb.png" width="200">
 
@@ -48,7 +48,7 @@ We recommend Super Awesome Sylvia's [Amazing Books](http://superawesomebook.com/
 #### Robot friend
 Make a robot friend by playing with CircuitPlayground. For most of this projects you will need some extra components like motors, batteries, wheels, etc.
 
-- [Sound-controlled Robot](https://learn.adafruit.com/circuit-playground-sound-controlled-robot/continuous-rotation-servos): From Mike Barela for Adafruit. It uses the accelerometer on the board to mantain balance. To ask it to move, you make sound and whistle to it. Bring a flute if you want to.
+- [Sound-controlled Robot](https://learn.adafruit.com/circuit-playground-sound-controlled-robot/continuous-rotation-servos): From Mike Barela for Adafruit. It uses the accelerometer on the board to maintain balance. To ask it to move, you make sound and whistle to it. Bring a flute if you want to.
 
 <img src="https://cdn-learn.adafruit.com/guides/images/000/001/456/medium800/robot_with_eyes.jpg" width="200">
 
@@ -62,7 +62,7 @@ Make a robot friend by playing with CircuitPlayground. For most of this projects
 <img src="https://cdn-learn.adafruit.com/guides/images/000/001/505/medium800/fruit_thumb.jpg" width="200">
 
 #### 3d printing
-For playing this games you need to print some parts. The world is a big place and is full of pleople willing to help you build this.
+For playing this games you need to print some parts. The world is a big place and is full of people willing to help you build this.
 - [Yoyo](https://learn.adafruit.com/circuit-playground-yoyo/assembly): Print a couple of parts to build an amazing looking yoyo.
 
 <img src="https://cdn-learn.adafruit.com/assets/assets/000/035/649/small240/circuit_playground_hero-rainbow.jpg" width="200">
@@ -89,7 +89,7 @@ As aids for learning other areas.
 - [Playground Ducky](https://github.com/fede2cr/playground_ducky): A clone of the tool Rubber Ducky, used to teaching about USB Keyboard attacks in Greencore Solutions.
 
 ##### Biology/Medical
-- [Pulse sensor](https://github.com/fede2cr/pulsesensor_cplay): Heart pulse sensor using the onboard sensors on the Playground.
+- [Pulse sensor](https://github.com/fede2cr/pulsesensor_cplay): Heart pulse sensor using the on board sensors on the Playground.
 
 ##### STEM
 - [Kit Ciencia y Arte](http://www.instructables.com/id/Kit-Ciencia-Y-Arte-Circuit-Playground/): A collection of tutorials for a [hardware STEM kit](http://www.crcibernetica.com/inventoria-sensor-kit/) from CRCibernetica, but you can get the individual parts from lots of other providers if you don't live in Costa Rica.
@@ -103,6 +103,6 @@ Not complete games, but places to start if you want to build a game.
 <img src="https://www.embeditelectronics.com/blog/wp-content/uploads/2016/11/scratch_connected_combined.png" width="200">
 
 #### Comercial/Kits
-- [1D Arcage Game System](https://www.tindie.com/products/itaparcade/neopix-arcade-kit-1d-arcade-game-system/): Is a comercial kit for a mounting base and tactile buttons, battery and USB cable for starting with CircuitPlayground. The video demo shows a 1D Pong-like game. The code is now in the Adafruit's Learning System in this [tutorial](https://learn.adafruit.com/neopix-arcade-kit-1d-arcade-game-system-circuit-playground)
+- [1D Arcage Game System](https://www.tindie.com/products/itaparcade/neopix-arcade-kit-1d-arcade-game-system/): Is a commercial kit for a mounting base and tactile buttons, battery and USB cable for starting with CircuitPlayground. The video demo shows a 1D Pong-like game. The code is now in the Adafruit's Learning System in this [tutorial](https://learn.adafruit.com/neopix-arcade-kit-1d-arcade-game-system-circuit-playground)
 
 <img src="https://d3s5r33r268y59.cloudfront.net/46861/products/thumbs/2017-01-15T19:39:34.533Z-IMG_4359.JPG.855x570_q85_pad_rcrop.jpg" width="200">
